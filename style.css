@@ -25,7 +25,7 @@ body{
 .hero{
     position: relative;
     min-height: 100vh;
-    background-image: url(/assets/nagas.jpg);
+    background-image: url(./assets/nagas.jpg);
     
    
 }
@@ -74,7 +74,7 @@ backdrop-filter: blur(4px);
 }
 .home{
     
-    background-image: url(/assets/nagas\ blur.jpg);
+    background-image: url(./assets/nagas\ blur.jpg);
     background-size: cover;
     background-position: center;
     min-height: 120vh;
